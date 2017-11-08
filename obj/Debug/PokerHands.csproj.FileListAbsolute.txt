@@ -1,0 +1,6 @@
+c:\users\marcus.tung21\source\repos\PokerHands\PokerHands\bin\Debug\PokerHands.dll
+c:\users\marcus.tung21\source\repos\PokerHands\PokerHands\bin\Debug\PokerHands.pdb
+c:\users\marcus.tung21\source\repos\PokerHands\PokerHands\obj\Debug\PokerHands.csprojResolveAssemblyReference.cache
+c:\users\marcus.tung21\source\repos\PokerHands\PokerHands\obj\Debug\PokerHands.csproj.CoreCompileInputs.cache
+c:\users\marcus.tung21\source\repos\PokerHands\PokerHands\obj\Debug\PokerHands.dll
+c:\users\marcus.tung21\source\repos\PokerHands\PokerHands\obj\Debug\PokerHands.pdb
